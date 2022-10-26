@@ -1,6 +1,7 @@
 # Hi, I'm Yuri 👋
-I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+I have good knowledge in backend development on Java.
+I am currently working at a university and want to become a professional software developer.
+
 <p align='center'>
    <a href="https://t.me/Achitheus">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
