@@ -1,6 +1,5 @@
 # Hi, I'm Yuri 👋
-I have good knowledge in backend development on Java.
-I am currently working at a university and want to become a professional software developer.
+I am actively developing in the field of back-end development. Currently I work as a lecturer at the university and plan to become a professional web developer
 
 <p align='center'>
    <a href="https://t.me/Achitheus">
