@@ -1,5 +1,5 @@
 # Hi, I'm Yuri 👋
-I am actively developing in the field of back-end development. Currently I work as a lecturer at the university and plan to become a professional web developer
+I actively study and practice in the field of back-end development. Currently I work as a lecturer at the university and plan to become a professional web developer
 
 <p align='center'>
    <a href="https://t.me/Achitheus">
