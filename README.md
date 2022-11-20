@@ -16,9 +16,9 @@ I actively study and practice in the field of back-end development. Currently I 
 
 ## 🛠 Technical Stack
 *   Java/C++ languages
-*   Oracle SQL
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template and so on...
-*   Git, Maven, Docker, Linux (command line)
+*   Oracle SQL, PostgreSQL
+*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, SLF4J and so on...
+*   Git, Maven, Docker, Linux
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/Achitheus/github-profile-views-counter">
