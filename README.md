@@ -1,12 +1,12 @@
 # Hi, I'm Yuri 👋
 I actively study and practice in the field of QA automation.
 
-<p align='center'>
+<p>
    <a href="https://t.me/Achitheus">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 </p>
-<p align='center'>
+<p>
    📫 How to reach me: <a href='mailto:yur_yurch@mail.ru'>yur_yurch@mail.ru</a>
 </p>
 
