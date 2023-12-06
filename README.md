@@ -17,6 +17,7 @@ I actively study and practice in the field of QA automation.
 ## 🛠 Technical Stack
 *   Java (also worked a little with C++)
 *   Selenium, Selenide, TestNG, JUnit5, Rest Assured
-*   Maven, git, Allure, Intellij IDEA, Linux
+*   Maven, git, Allure, Linux
+*   CI/CD (GitHub actions)
 *   Oracle SQL
 
