@@ -20,8 +20,3 @@ I actively study and practice in the field of QA automation.
 *   Maven, git, Allure, Intellij IDEA, Linux
 *   Oracle SQL
 
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/Achitheus/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=Achitheus&color=DE002D">
-   </a>
-</div>
