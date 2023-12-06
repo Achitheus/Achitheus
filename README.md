@@ -1,5 +1,5 @@
 # Hi, I'm Yuri 👋
-I actively study and practice in the field of back-end development. Currently I work as a lecturer at the university and plan to become a professional web developer
+I actively study and practice in the field of QA automation.
 
 <p align='center'>
    <a href="https://t.me/Achitheus">
@@ -15,10 +15,10 @@ I actively study and practice in the field of back-end development. Currently I 
 
 
 ## 🛠 Technical Stack
-*   Java/C++ languages
-*   Oracle SQL, PostgreSQL
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, SLF4J and so on...
-*   Git, Maven, Docker, Linux
+*   Java (also worked a little with C++)
+*   Selenium, Selenide, TestNG, JUnit5, Rest Assured
+*   Maven, git, Allure, Intellij IDEA, Linux
+*   Oracle SQL
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/Achitheus/github-profile-views-counter">
