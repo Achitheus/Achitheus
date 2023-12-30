@@ -1,4 +1,4 @@
-# Hi, I'm Yuri 👋
+# Hi, I'm Yury
 I actively study and practice in the field of QA automation.
 
 <p>
