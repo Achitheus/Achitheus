@@ -7,7 +7,7 @@ QA automation engineer and testing frameworks contributor.
    </a>
 </p>
 <p>
-   📫 How to reach me: <a href='mailto:yur_yurch@mail.ru'>yur_yurch@mail.ru</a>
+   📫 Email: <a href='mailto:yur_yurch@mail.ru'>yur_yurch@mail.ru</a>
 </p>
 
 
@@ -22,26 +22,26 @@ QA automation engineer and testing frameworks contributor.
 *   SQL
 
 # Projects
-### Selenium
+### Selenium (UI)
 Yandex Market test-case automation [project](https://github.com/Achitheus/SeleniumTestCaseYandexMarket).  
 The parameterized test passes through all pages and checks all products for compliance with `price` and `customer` filters and more.  
 `Javadoc` is in Russian - according to requirements.
 
 *Selenium, JUnit5, Allure, Maven, GitHub Actions (CI)*
-### Selenide
+### Selenide (UI)
 Yandex Market test-case automation [project](https://github.com/Achitheus/SelenideTestCase).  
 Just like in the Selenium project, parameterized test passes through all pages and check all product titles for compliance with `customer` filter.  
 `Javadoc` is in Russian - according to requirements.
 
 *Selenide, Junit5, Allure, Maven, GitHub Actions (CI)*
-### Rest Assured 
+### Rest Assured (API)
 Automation of test cases for [reqres.in](reqres.in) and [gateway.autodns.com](gateway.autodns.com) (SOAP) services.  
-[Project page](https://github.com/Achitheus/automationCucumber).
+[Details](https://github.com/Achitheus/automationAPI).
 
 *Rest Assured, TestNG, Allure, Maven, GitHub Actions (CI)*
-### Cucumber
+### Cucumber (UI)
 Same as Selenide-project mentioned above, but uses BDD approach with Cucumber framework.  
-[Project page](https://github.com/Achitheus/automationCucumber).
+[Details](https://github.com/Achitheus/automationCucumber).
 
 *Selenide, Cucumber, JUnit5, Allure, Maven GitHub Actions (CI)*
 ### Vacancies processor
@@ -58,7 +58,7 @@ This is my most significant open source contribution aimed at closing one of the
 *PR waits review at the moment.*
 ### AssertJ (PR [#3313](https://github.com/assertj/assertj/pull/3313))
 Support multiple `AfterAssertionErrorCollected` callbacks.  
-This contribution is made to make Allure soft assertions support mentioned above more safe.
+This contribution ensures the reliability of the solution for Allure soft assertions support mentioned above.
 
 *Since: AssertJ 3.26.0*
 ### Selenide (issue [#2130](https://github.com/selenide/selenide/issues/2130), PR [#2557](https://github.com/selenide/selenide/pull/2557))
