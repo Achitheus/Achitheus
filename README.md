@@ -24,13 +24,13 @@ QA automation engineer and testing frameworks contributor.
 # Projects
 ### Selenium
 Yandex Market test-case automation [project](https://github.com/Achitheus/SeleniumTestCaseYandexMarket).  
-The parametrized test passes through all pages and checks all products for compliance with `price` and `customer` filters and more.
+The parametrized test passes through all pages and checks all products for compliance with `price` and `customer` filters and more.  
 `Javadoc` is in Russian - according to requirements.
 
 *Selenium, JUnit5, Allure, Maven, GitHub Actions (CI)*
 ### Selenide
 Yandex Market test-case automation [project](https://github.com/Achitheus/SelenideTestCase).  
-Just like in the Selenium project, parametrized test passes through all pages and check all product titles for compliance with `customer` filter.
+Just like in the Selenium project, parametrized test passes through all pages and check all product titles for compliance with `customer` filter.  
 `Javadoc` is in Russian - according to requirements.
 
 *Selenide, Junit5, Allure, Maven, GitHub Actions (CI)*
