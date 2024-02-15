@@ -1,4 +1,4 @@
-# Hi, I'm Yury!
+# Hi, I'm Yury! (<ins>[RU version](https://github.com/Achitheus/Achitheus-RU/blob/main/README.md)</ins>)
 QA automation engineer and testing frameworks contributor.
 
 <p>
