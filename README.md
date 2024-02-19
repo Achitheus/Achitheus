@@ -21,6 +21,26 @@ QA automation engineer and testing frameworks contributor.
 *   CI/CD (GitHub Actions)
 *   SQL
 
+
+# Contributions to testing frameworks
+
+### Allure/allure-java (issue [#19](https://github.com/allure-framework/allure-java/issues/19), PR [#988](https://github.com/allure-framework/allure-java/pull/988))
+Add the first soft assertions support for Java.  
+This is my most significant open source contribution aimed at closing one of the oldest Allure issues still open.
+
+*PR waits review at the moment.*
+### AssertJ (PR [#3313](https://github.com/assertj/assertj/pull/3313))
+Support multiple `AfterAssertionErrorCollected` callbacks.  
+This contribution ensures the reliability of the solution for Allure soft assertions support mentioned above.
+
+*Since: AssertJ 3.26.0*
+### Selenide (issue [#2130](https://github.com/selenide/selenide/issues/2130), PR [#2557](https://github.com/selenide/selenide/pull/2557))
+Conditions `oneOfTexts()`, `oneOfExactTexts()`, etc. added.
+
+*Since: Selenide 7.0.3*
+### Allure/allure-examples ([PR #1](https://github.com/allure-examples/allure-cucumber7-junit-platform-maven/pull/1))
+Maven configured example of usage Allure Report with Cucumber 7 on JUnit Platform is added.  
+
 # Projects
 ### Selenium (UI)
 Yandex Market test-case automation [project](https://github.com/Achitheus/SeleniumTestCaseYandexMarket).  
@@ -49,23 +69,3 @@ The program for automated vacancies applying and analyzing vacancies description
 [Details](https://github.com/Achitheus/vacancy-processor--demo-?tab=readme-ov-file).
 
 *Selenide, Maven, log4j, owner*
-# Contributions to testing frameworks
-
-### Allure/allure-java (issue [#19](https://github.com/allure-framework/allure-java/issues/19), PR [#988](https://github.com/allure-framework/allure-java/pull/988))
-Add the first soft assertions support for Java.  
-This is my most significant open source contribution aimed at closing one of the oldest Allure issues still open.
-
-*PR waits review at the moment.*
-### AssertJ (PR [#3313](https://github.com/assertj/assertj/pull/3313))
-Support multiple `AfterAssertionErrorCollected` callbacks.  
-This contribution ensures the reliability of the solution for Allure soft assertions support mentioned above.
-
-*Since: AssertJ 3.26.0*
-### Selenide (issue [#2130](https://github.com/selenide/selenide/issues/2130), PR [#2557](https://github.com/selenide/selenide/pull/2557))
-Conditions `oneOfTexts()`, `oneOfExactTexts()`, etc. added.
-
-*Since: Selenide 7.0.3*
-### Allure/allure-examples ([PR #1](https://github.com/allure-examples/allure-cucumber7-junit-platform-maven/pull/1))
-Maven configured example of usage Allure Report with Cucumber 7 on JUnit Platform is added.  
-
-
