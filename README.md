@@ -22,7 +22,7 @@ QA automation engineer and testing frameworks contributor.
 *   SQL
 
 
-# Contributions to testing frameworks
+# Contributions to testing frameworks ([RU version](https://github.com/Achitheus/Achitheus-RU?tab=readme-ov-file#контрибьюты-во-фреймворки-тестирования))
 
 ### Allure/allure-java (issue [#19](https://github.com/allure-framework/allure-java/issues/19), PR [#988](https://github.com/allure-framework/allure-java/pull/988))
 Add the first soft assertions support for Java.  
@@ -41,7 +41,7 @@ Conditions `oneOfTexts()`, `oneOfExactTexts()`, etc. added.
 ### Allure/allure-examples ([PR #1](https://github.com/allure-examples/allure-cucumber7-junit-platform-maven/pull/1))
 Maven configured example of usage Allure Report with Cucumber 7 on JUnit Platform is added.  
 
-# Projects
+# Projects ([RU version](https://github.com/Achitheus/Achitheus-RU?tab=readme-ov-file#проекты))
 ### Selenium (UI)
 Yandex Market test-case automation [project](https://github.com/Achitheus/SeleniumTestCaseYandexMarket).  
 The parameterized test passes through all pages and checks all products for compliance with `price` and `customer` filters and more.  
