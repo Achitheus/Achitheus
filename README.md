@@ -26,7 +26,7 @@ QA automation engineer and testing frameworks contributor.
 
 ### Allure/allure-java (issue [#19](https://github.com/allure-framework/allure-java/issues/19), PR [#988](https://github.com/allure-framework/allure-java/pull/988))
 Add the first soft assertions support for Java.  
-This is my most significant open source contribution aimed at closing one of the oldest Allure issues still open.
+This is my most significant open source contribution aimed at closing one of the oldest Allure issues.
 
 *PR waits review at the moment.*
 ### AssertJ (PR [#3313](https://github.com/assertj/assertj/pull/3313))
