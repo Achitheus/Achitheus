@@ -15,10 +15,10 @@ QA automation engineer and testing frameworks contributor.
 
 
 # 🛠 Technical Stack
-*   Java (also worked a little with C++)
-*   Selenium, Selenide, TestNG, JUnit5, Rest Assured, Cucumber
-*   Maven, git, Allure, Linux
-*   CI/CD (GitHub Actions)
+*   Java (also worked a little with C++, Python)
+*   Selenium, Selenide, Selenoid, GGR, TestNG, JUnit5, Rest Assured, Cucumber
+*   Maven, Gradle, git, Allure, Linux
+*   CI/CD (GitHub Actions, TeamCity)
 *   SQL
 
 
@@ -42,6 +42,11 @@ Conditions `oneOfTexts()`, `oneOfExactTexts()`, etc. added.
 Maven configured example of usage Allure Report with Cucumber 7 on JUnit Platform is added.  
 
 # Projects ([RU version](https://github.com/Achitheus/Achitheus-RU?tab=readme-ov-file#проекты))
+### Parallel tests
+Multi-module Gradle project for multi-threaded runs of API and UI tests and deployment of a cluster of 3 machines.  
+Link: [bitbucket.org/achitheus/tests](http://bitbucket.org/achitheus/tests)
+
+*GGR, Selenoid, Docker, Gradle, JUnit5, TeamCity, Allure*
 ### Selenium (UI)
 Yandex Market test-case automation [project](https://github.com/Achitheus/SeleniumTestCaseYandexMarket).  
 The parameterized test passes through all pages and checks all products for compliance with `price` and `customer` filters and more.  
