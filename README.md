@@ -17,7 +17,7 @@ QA automation engineer and testing frameworks contributor.
 # 🛠 Technical Stack
 *   Java (also worked a little with C++, Python)
 *   Selenium, Selenide, Selenoid, GGR, TestNG, JUnit5, Rest Assured, Cucumber
-*   Maven, Gradle, git, Allure, Linux
+*   Maven, Gradle, Docker, git, Allure, Linux bash
 *   CI/CD (GitHub Actions, TeamCity)
 *   SQL
 
